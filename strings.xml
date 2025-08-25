@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_title">InventoryApp</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Login</string>
+    <string name="create_account_button">Create Account</string>
+    <string name="inventory_title">Inventory</string>
+    <string name="add_item_button">Add Item</string>
+    <string name="delete_button">Delete</string>
+    <string name="item_a">Item A - Qty: 10</string>
+    <string name="item_b">Item B - Qty: 5</string>
+    <string name="sms_title">SMS Notifications</string>
+    <string name="sms_description">This app requires SMS permissions to send notifications for low inventory. Would you like to enable SMS notifications?</string>
+    <string name="enable_sms_button">Enable Notifications</string>
+    <string name="sms_response_placeholder">Permission status will appear here.</string>
+    <string name="app_name">Inventory App</string>
+</resources>
